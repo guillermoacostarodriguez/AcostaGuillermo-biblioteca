@@ -4,7 +4,7 @@ socios, prestar libros disponibles (máximo 3 por socio) y devolverlos.
 
 ## Uso
 1. Clona el repositorio:
-   git clone https://github.com/victorvergelgregorio/ApellidoNombreExamen2026-27.git 
+   - git clone https://github.com/victorvergelgregorio/ApellidoNombreExamen2026-27.git 
 2. Copia config/secretos.properties con tus credenciales (no se sube al repositorio). 
 3. Compila el proyecto desde la carpeta src:
    javac -d out Main.java modelo/*.java servicio/*.java 
